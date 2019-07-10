@@ -1,3 +1,5 @@
+com/pf/commons/model/OrderBy.class
+com/pf/commons/model/Query.class
 com/pf/commons/support/spring/EncryptDBPasswordFactory.class
 com/pf/commons/lang/Paginator.class
 com/pf/commons/support/spring/SpringContextHolder.class
