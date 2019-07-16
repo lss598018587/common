@@ -1,6 +1,6 @@
 package com.pf.commons.util;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 /**
  * 其实应该更名为 ClientType，但用到的地方有点多，不好改，凑合着用吧

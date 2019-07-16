@@ -1,7 +1,7 @@
 package com.pf.commons.util;
 
-import org.apache.commons.lang.StringUtils;
-import org.apache.commons.lang.time.DateUtils;
+import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang3.time.DateUtils;
 
 import java.text.DateFormat;
 import java.text.DecimalFormat;
