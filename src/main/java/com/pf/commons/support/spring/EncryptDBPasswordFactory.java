@@ -103,7 +103,7 @@ public final class EncryptDBPasswordFactory implements FactoryBean<String> {
         
         EncryptDBPasswordFactory encrypt =  new EncryptDBPasswordFactory();
         
-        String secret = "123456";//tbj900900
+        String secret = "232323";//tbj900900
         String secText = encrypt.encode(secret);
         System.out.println(secText);
         
